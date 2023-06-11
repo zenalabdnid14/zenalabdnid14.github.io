@@ -1,0 +1,50 @@
+.navlink {
+    margin-right: 30px;
+}
+
+.navbarbrand {
+    font-weight: 600;
+}
+
+.navlink:hover {
+    font-weight: 500;
+}
+
+.bg-image {
+    height: 100vh;
+    background: url("../../public/images/bg2.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 400px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    color: rgb(46, 46, 46);
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 3px;
+    margin: 5px;
+}
+
+.paragraf {
+    font-size: 18px;
+    margin: 4px;
+}
+
+.kelasbio {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-bio {
+    height: 60vh;
+}
